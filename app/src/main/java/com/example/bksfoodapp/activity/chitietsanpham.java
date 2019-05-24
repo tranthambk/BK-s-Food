@@ -1,5 +1,5 @@
 package com.example.bksfoodapp.activity;
-
+//ssssss
 import android.Manifest;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
